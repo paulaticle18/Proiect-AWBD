@@ -1,0 +1,8 @@
+{
+  "email": "updated.professor@mail.com",
+  "phoneNumber": "9876543210",
+  "department": {
+    "id": %d,
+    "name": "Computer Science"
+  }
+} 

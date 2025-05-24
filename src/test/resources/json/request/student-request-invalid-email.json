@@ -1,0 +1,6 @@
+{
+  "firstName": "Test",
+  "lastName": "Student",
+  "email": "invalid.email",
+  "courseTitles": ["Course1", "Course2"]
+} 
