@@ -1,0 +1,8 @@
+{
+  "firstName": "Test",
+  "lastName": "Professor",
+  "email": "test.professor@mail.com",
+  "phoneNumber": "1234567890",
+  "courseTitles": ["Course1", "Course2"],
+  "department": "Computer Science"
+}

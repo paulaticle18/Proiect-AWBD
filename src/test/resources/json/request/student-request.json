@@ -1,0 +1,11 @@
+{
+  "firstName": "Test",
+  "lastName": "Student",
+  "email": "test.student@mail.com",
+  "courseTitles": [
+    "Course1",
+    "Course2"
+  ],
+  "address": "123 Test Street",
+  "phoneNumber": "123-456-7890"
+}

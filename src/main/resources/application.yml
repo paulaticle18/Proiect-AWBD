@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: "spring-mvc-project"
+  datasource:
+    url: jdbc:postgresql://localhost:5432/spring-mvc-project
+    username: postgres
+    password: pau2003
+    driver-class-name: org.postgresql.Driver
+  liquibase:
+    enabled: true
+    change-log: db/db.changelog-master.yaml
